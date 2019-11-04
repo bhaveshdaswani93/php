@@ -5,7 +5,7 @@
   "keywords": ["api", "real-time", "realtime", "real time", "ajax", "push"],
   "homepage": "http://www.pubnub.com/",
   "license": "MIT",
-  "version": "4.1.5",
+  "version": "4.1.6",
   "authors": [
     {
       "name": "PubNub",
@@ -19,7 +19,7 @@
     "php": ">=5.6.0",
     "rmccue/requests": "^1.0"
     
-  }
+  },
   "autoload": {
     "psr-0": {
       "PubNub\\": "src/"
